@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+> 生命不息 奋斗不止
+
+- 个人网站: https://smalltechnologyjun.com
+
+![picture](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
+
+
+
 <!--
 **ChengKeJ/ChengKeJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
