@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-> 生命不息 奋斗不止
+> life is long so add oil !
 
-- 个人网站: https://smalltechnologyjun.com
+- blog: https://smalltechnologyjun.com
 
 ![picture](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
 
